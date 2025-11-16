@@ -5,7 +5,7 @@ Este repositorio contiene mis soluciones implementadas en **SWI-Prolog** para la
 
 # Origen de los Problemas
 
-Los enunciados de los problemas son tomados y adaptados de la colección canónica disponible, por ejemplo, en:
+Los enunciados de los problemas son tomados y adaptados de la colección canónica disponible en:
 
 * **[ttybitnik/lab.99-problems](https://github.com/ttybitnik/lab.99-problems)**
 
