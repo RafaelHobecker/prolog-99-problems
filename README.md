@@ -11,10 +11,10 @@ Los enunciados de los problemas son tomados y adaptados de la colección canóni
 
 
 # Organización
+De la sección **List** he resuelto los siguientes problemas:
+  1.01(P01.pl) , 1.03(P03.pl), 1.04(P04.pl), 1.05(P05.pl), 1.20(P020.pl), 1.21(P021.pl), 1.22(P022.pl).
 
-Los archivos están nombrados según el índice del problema para facilitar la referencia:
-* P01.pl
-* P02.pl
-* ...etc.
+De la sección **Arithmetic** he resuelto los siguientes problemas:
 
----
+
+
